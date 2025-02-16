@@ -1,1 +1,2 @@
-print('Hi, I am Atsuki.')
+name = input("enter your name: ")
+print(f'I am {name}.')
